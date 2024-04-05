@@ -1,4 +1,4 @@
-# Ankr
+# Ankr
 
 ## What is Ankr?
 
@@ -17,6 +17,6 @@ Some services Ankr provide are as follows:
 
 For more details, visit [Ankr docs](https://www.ankr.com/docs/).
 
-## Get Started with Ankr.js
+## Get Started with Ankr.js
 
 Navigate through our [Guide](./Guide.md) to get started with Ankr.js.

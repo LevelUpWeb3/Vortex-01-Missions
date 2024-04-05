@@ -1,4 +1,4 @@
-# Guide to Get Started w/ Ankr.js
+# Guide to Get Started w/ Ankr.js
 
 Ankr.js is a JS library that lets users interact with Ankr's Advanced APIs. In this guide, you'll learn how to retrieve NFTs belonging to a particular user.
 
