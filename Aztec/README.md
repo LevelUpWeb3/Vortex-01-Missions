@@ -14,6 +14,8 @@ Aztec enables privacy-preserving smart contracts. Such contracts are a collectio
 
 3. **Portal Contracts:** These are contracts on Ethereum that can receive messages from Aztec or send messages to Aztec from Ethereum contracts.
 
+For more details, visit [Aztec docs](https://www.docs.aztec.network/).
+
 ## Get Started with Aztec.js
 
 Navigate through our [Guide](./Guide.md) to get started with Aztec.js.

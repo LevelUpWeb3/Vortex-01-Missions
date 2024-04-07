@@ -4,7 +4,7 @@ Ankr.js is a JS library that lets users interact with Ankr's Advanced APIs. In t
 
 ## Installation and Setup
 
-Before starting installation, make sure that [Node.js]() or [Yarn]() is installed.
+Before starting installation, make sure that [Node.js](https://nodejs.org/en) or [Yarn](https://yarnpkg.com/) is installed.
 
 ### Install Ankr.js
 
@@ -16,7 +16,7 @@ yarn add @ankr.com/ankr.js
 
 ### Create a JS File
 
-Create a new file named `main.ts` at the project directory:
+Create a new file named `main.js` at the project directory:
 
 ```
 touch main.js
