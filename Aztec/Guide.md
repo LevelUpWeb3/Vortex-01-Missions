@@ -30,7 +30,7 @@ Start by importing `aztec.js` library:
 import { Contract } from '@aztec/aztec.js';
 ```
 
-### Deploy a Contract
+### Deploy a Contract
 
 Before diving into the code, see [contract artifacts on the docs](https://docs.aztec.network/developers/contracts/compiling_contracts/artifacts).
 
@@ -40,7 +40,7 @@ const contract = await Contract.deploy(wallet, MyContractArtifact, [...consructo
 console.log(`Contract deployed at ${contract.address}`);
 ```
 
-### Send a Transaction
+### Send a Transaction
 
 ```javascript
 const contract = await Contract.at(contractAddress, MyContractArtifact, wallet);
@@ -50,7 +50,7 @@ const tx = await contract.methods.transfer(amount, recipientAddress).send().wait
 console.log(`Transferred ${amount} to ${recipientAddress} on block ${tx.blockNumber}`);
 ```
 
-### Call a View Function
+### Call a View Function
 
 ```javascript
 const contract = await Contract.at(contractAddress, MyContractArtifact, wallet);
