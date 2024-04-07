@@ -2,7 +2,7 @@
 
 ## What is Ankr?
 
-Ankr is a Web3 infrastructure company. It has a set of different products for building, earning, gaming, and more — all on blockchain.
+[Ankr](https://www.ankr.com/) is a Web3 infrastructure company. It has a set of different products for building, earning, gaming, and more — all on blockchain.
 
 Some services Ankr provide are as follows:
 
