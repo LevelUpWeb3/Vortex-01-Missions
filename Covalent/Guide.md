@@ -63,4 +63,4 @@ const ApiServices = async () => {
 }
 ```
 
-It will return the token balances of that particular user with `WALLET_ADDRESS`.
+It will return the token balances of that particular user with address `WALLET_ADDRESS`.
