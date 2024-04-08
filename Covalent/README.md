@@ -16,6 +16,6 @@ Some services Covalent provides include:
 
 For more details, visit [Covalent Docs](https://www.covalenthq.com/docs/api/).
 
-## Get Started with Covalent API
+## Get Started with Covalent TypeScript SDK
 
-Navigate through our [Guide](./Guide.md) to get started with the Covalent API, offering easy access to deep, reliable data across multiple blockchains.
+Navigate through our [Guide](./Guide.md) to get started with the Covalent TS SDK, offering easy access to deep, reliable data across multiple blockchains.
