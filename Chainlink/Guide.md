@@ -52,3 +52,4 @@ contract DataConsumerV3 {
 }
 ```
 
+The latestRoundData function returns five values representing information about the latest price data. See the [Data Feeds API Reference](https://docs.chain.link/data-feeds/api-reference) for more details.
