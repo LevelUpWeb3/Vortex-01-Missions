@@ -1,4 +1,4 @@
-# Guide to Get Started w/ Covalent TypeScript SDK
+# Guide to Get Started w/ Covalent TypeScript SDK
 
 The Covalent SDK is a way to integrate the Unified API for working with blockchain data. The SDK works with all supported chains including mainnets and testnets.
 

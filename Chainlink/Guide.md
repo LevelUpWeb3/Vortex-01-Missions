@@ -1,4 +1,4 @@
-# Guide to Get Started w/ Chainlink Data Feeds
+# Guide to Get Started w/ Chainlink Data Feeds
 
 Chainlink Data Feeds are the way to connect your smart contracts to the real-world data such as asset prices, reserve balances, NFT floor prices, and L2 sequencer health.
 
@@ -10,7 +10,7 @@ Types of Data Feeds:
 4. Rate and Volatility Feeds,
 5. L2 Sequencer Uptime Feeds.
 
-## Code
+## Code
 
 To consume price data, your smart contract should reference `AggregatorV3Interface`, which defines the external functions implemented by Data Feeds:
 

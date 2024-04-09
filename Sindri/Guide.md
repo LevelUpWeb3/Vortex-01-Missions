@@ -23,7 +23,7 @@ Enter your
 - password, and
 - API key.
 
-## Code
+## Code
 
 Clone the resources repo:
 

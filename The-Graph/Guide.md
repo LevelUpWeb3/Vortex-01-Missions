@@ -33,9 +33,9 @@ graph init \
   <SUBGRAPH_SLUG> [<DIRECTORY>]
 ```
 
-## Code
+## Code
 
-### GraphQL Schema
+### GraphQL Schema
 
 ```graphql
 type Gravatar @entity(immutable: true) {
@@ -75,7 +75,7 @@ dataSources:
           handler: handleUpdatedGravatar
 ```
 
-### Mapping
+### Mapping
 
 ```javascript
 import { NewGravatar, UpdatedGravatar } from '../generated/Gravity/Gravity'
