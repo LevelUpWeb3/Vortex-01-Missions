@@ -10,13 +10,13 @@ Some services Chainlink provides include:
 - Verifiable Random Function (VRF),
 - Chainlink Automation,
 - External Adapters,
-- Price Feeds,
+- Data Feeds,
 - Cross-Chain Interoperability Protocol,
 - Keepers,
 - Tutorials and Integration Guides.
 
 For more details, visit [Chainlink Documentation](https://docs.chain.link/).
 
-## Get Started with Chainlink
+## Get Started with Chainlink Data Feeds
 
 Navigate through our [Guide](./Guide.md) to get started with Chainlink, enabling your smart contracts to securely and reliably interact with real-world data and services.
